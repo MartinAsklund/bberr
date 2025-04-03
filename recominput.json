@@ -1,5 +1,5 @@
 [
-    { "name": "Gary Yoga Pants", "img": "https://se-demo-retail.use1.dev.pub.dydy.io/product_img/214505081.jpg" },
+    { "name": "Gary Yoga Pants", "img": "https://se-demo-retail.use1.dev.pub.dydy.io/product_img/214505081.jpg", "price": "$ 24" },
     { "name": "Gary Cropped Yoga Pants", "img": "https://se-demo-retail.use1.dev.pub.dydy.io/product_img/214699993.jpg" },
     { "name": "Sleeve Top", "img": "https://se-demo-retail.use1.dev.pub.dydy.io/product_img/214699977.jpg" },
     { "name": "Explorer 27 Trouser", "img": "https://se-demo-retail.use1.dev.pub.dydy.io/product_img/214699999.jpg" },
