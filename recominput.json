@@ -1,8 +1,8 @@
 [
     { "name": "Gary Yoga Pants", "img": "https://se-demo-retail.use1.dev.pub.dydy.io/product_img/214505081.jpg", "price": 25.99},
-    { "name": "Gary Cropped Yoga Pants", "img": "https://se-demo-retail.use1.dev.pub.dydy.io/product_img/214699993.jpg", "price": 25.99 },
+    { "name": "Cropped Yoga Pants", "img": "https://se-demo-retail.use1.dev.pub.dydy.io/product_img/214699993.jpg", "price": 25.99 },
     { "name": "Sleeve Top", "img": "https://se-demo-retail.use1.dev.pub.dydy.io/product_img/214699977.jpg", "price": 25.99 },
     { "name": "Explorer 27 Trouser", "img": "https://se-demo-retail.use1.dev.pub.dydy.io/product_img/214699999.jpg", "price": 25.99 },
     { "name": "Power Gym Leggings", "img": "https://se-demo-retail.use1.dev.pub.dydy.io/product_img/214665244.jpg", "price": 25.99 },
-    { "name": "Power 7/8 Gym Leggings", "img": "https://se-demo-retail.use1.dev.pub.dydy.io/product_img/214698903.jpg", "price": 25.99 }
+    { "name": "Power 7/8 Leggings", "img": "https://se-demo-retail.use1.dev.pub.dydy.io/product_img/214698903.jpg", "price": 25.99 }
 ]
